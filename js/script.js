@@ -1,7 +1,7 @@
 /* ============ typing animation =============*/
 
 var typed = new Typed(".typing", {
-    strings: ["", "IT Support", "Web Designer", "Graphic Designer"],
+    strings: ["", "IT Support", "Web Designer", "Graphic Designer", "Streamer Soon"],
     typeSpeed: 70, // Faster typing speed
     backSpeed: 40, // Faster backspacing speed
     startDelay: 500, // Shorter delay before starting typing
